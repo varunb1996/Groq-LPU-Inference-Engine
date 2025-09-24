@@ -1,0 +1,1 @@
+This project uses the Groq LPU Inference Engine to enable extremely fast, low-latency inference of large language models. The goal is to integrate Groq’s API (locally or via cloud) and show how you can build context-aware AI applications using LlamaIndex (or similar retrieval tools) with Groq as the backend
